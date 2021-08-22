@@ -41,7 +41,7 @@
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashmdev&count_private=true&show_icons=true&layout)
 
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashmdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashmdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [email]: mailto:mohapatra.akash99@gmail.com
