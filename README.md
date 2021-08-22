@@ -37,11 +37,14 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmdev&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmdev&include_all_commits=true&count_private=true&layout=compact)
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashmdev&count_private=true&show_icons=true&layout)
 
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashmdev)](https://github.com/anuraghazra/github-readme-stats)
+![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashmdev)
+
+
+
 
 
 [email]: mailto:mohapatra.akash99@gmail.com
