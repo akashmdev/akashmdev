@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][email]
 [<img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
@@ -50,5 +50,5 @@
 [email]: mailto:mohapatra.akash99@gmail.com
 [twitter]: https://twitter.com/Akashm99
 [instagram]: https://www.instagram.com/akash.mohapatra
-[linkedin]: https://www.linkedin.com/in/akash-mohapatra
+[linkedin]: https://www.linkedin.com/in/akashmdev
 
